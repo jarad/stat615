@@ -3,6 +3,7 @@
 permalink: /:year/:month:/title
 url: /stat615
 
+markdown: rdiscount
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 pygments: true
