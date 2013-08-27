@@ -19,4 +19,6 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
+For readings go [here](/schedule/).
+
 
