@@ -7,7 +7,7 @@ description: ""
 
 - Week 1
   - Day 1: Welcome
-  - Day 2: pvalues vs posterior probabilities ([reading](/stat615/papers/ockham.pdf))
+  - Day 2: pvalues vs posterior probabilities ([reading](/stat615/papers/ockham.pdf), figures are not included and are unnecessary...feel free to google for them)
 - Week 2
   - Day 1: 
 
