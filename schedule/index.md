@@ -7,7 +7,7 @@ description: ""
 
 - Week 1
   - Day 1: Welcome
-  - Day 2: pvalues vs posterior probabilities ([reading](http://www.cs.colorado.edu/~mozer/Teaching/syllabi/6622/papers/JefferysBerger1991.pdf))
+  - Day 2: pvalues vs posterior probabilities ([reading](/stat615/papers/ockham.pdf))
 - Week 2
   - Day 1: 
 
