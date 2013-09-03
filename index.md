@@ -19,6 +19,11 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
+### Course links
+
+- Readings
+- [Homework](${BASE_PATH}/homework.html)
+
 For readings go [here](/stat615/schedule/).
 
 
