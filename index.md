@@ -22,7 +22,7 @@ Here's a sample "posts list".
 ### Course links
 
 - Readings
-- [Homework](${BASE_PATH}/homework.html)
+- [Homework](homework.html)
 
 For readings go [here](/stat615/schedule/).
 
