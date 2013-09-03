@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to STAT 615
+title: STAT 615
 tagline: Advanced Bayesian Methods
 ---
 {% include JB/setup %}
