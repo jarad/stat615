@@ -15,3 +15,13 @@ This homework covers two topics: Bayesian hypothesis testing (question 1) and re
 3. Show that independent [Laplace](http://en.wikipedia.org/wiki/Laplace_distribution) priors on regression coefficients lead to the LASSO estimator on page 1 of [Bayesian LASSO](http://www.stat.ufl.edu/~casella/Papers/Lasso.pdf).
 4. Derive the form of the prior distribution for the [elastic net estimator](http://en.wikipedia.org/wiki/Elastic_net_regularization). 
 
+### Homework 2 (due 12 Sep in class)
+
+This homework covers data augmentation approaches for probit and logistic regression.
+
+1. Show that the following models are equivalent:
+  - y~Ber(p) p = \Phi(Xb)
+  - y=I(Z>0) Z ~ N(Xb,1)
+1. Run an MCMC for the model below and describe (using a plot?) how non-identifiability affects the posterior. 
+  - y=I(Z>a) Z~N(Xb,1) where X includes an intercept
+
