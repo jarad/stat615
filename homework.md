@@ -20,8 +20,8 @@ This homework covers two topics: Bayesian hypothesis testing (question 1) and re
 This homework covers data augmentation approaches for probit and logistic regression.
 
 1. Show that the following models are equivalent:
-  - y~Ber(p) p = \Phi(Xb)
+  - y~Ber(p) p = \Phi(Xb) where \Phi is the cdf of a standard normal
   - y=I(Z>0) Z ~ N(Xb,1)
 1. Run an MCMC for the model below and describe (using a plot?) how non-identifiability affects the posterior. 
-  - y=I(Z>a) Z~N(Xb,1) where X includes an intercept
+  - y=I(Z>a) Z~N(Xb,1) where X includes an intercept and a single explanatory variable and a and b are unknown parameters
 
