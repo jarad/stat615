@@ -15,6 +15,6 @@ description: ""
   - Day 1: Probit regression ([reading](http://www.stat.cmu.edu/~brian/905-2009/all-papers/albert-chib-1993.pdf))
   - Day 2: Logistic regression ([reading](http://arxiv.org/pdf/1205.0310v3))
 - Week 4
-  - Day 1: Interweaving ([reading (up to sec 3)]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf)
+  - Day 1: Interweaving ([reading (up to sec 3)]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf))
 
 
