@@ -24,4 +24,4 @@ This homework covers data augmentation approaches for probit and logistic regres
     - y=I(Z>0), Z ~ N(Xb,1)
 1. Run an MCMC for the model below (you can use BUGS/JAGS) and describe (using a plot?) how non-identifiability affects the posterior. 
     - y=I(Z>a), Z~N(Xb,1) where X includes an intercept and a single explanatory variable and a and b are unknown parameters
-
+1. Verify (or find the typo for) the likelihood for beta at the bottom of page 7 of [Polson et al](http://arxiv.org/pdf/1205.0310v3.pdf).
