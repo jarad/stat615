@@ -16,5 +16,6 @@ description: ""
   - Day 2: Logistic regression ([reading](http://arxiv.org/pdf/1205.0310v3))
 - Week 4
   - Day 1: Interweaving ([reading (up to sec 3)]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf))
+  - Day 2: Hamiltonian Monte Carlo ([reading (sec 3-4)](http://www.cs.utoronto.ca/~radford/ftp/ham-mcmc.pdf))
 
 
