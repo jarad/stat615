@@ -25,3 +25,13 @@ This homework covers data augmentation approaches for probit and logistic regres
 1. Run an MCMC for the model below (you can use BUGS/JAGS) and describe (using a plot?) how non-identifiability affects the posterior. 
     - y=I(Z>a), Z~N(Xb,1) where X includes an intercept and a single explanatory variable and a and b are unknown parameters
 1. Verify (or find the typo for) the likelihood for beta at the bottom of page 7 of [Polson et al](http://arxiv.org/pdf/1205.0310v3.pdf).
+
+
+### Homework 3 (due 24 Sep in class)
+
+1. Verify equation 2.10 in [Yu and Meng]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf).
+1. Consider the following Gibbs sampler: 'X|Y~ N(pY,1-p^2)' and 'Y|X~N(pX,1-p^2)' for a known 0<p<1. 
+    a. What is the stationary distribution for this Gibbs sampler?
+    a. Describe the transition kernel for moving from X to X', similar to equation 2.17 in Yu and Meng. 
+    a. Verify that this transition kernel preserves the stationary distribution for X using the technique below equation 2.17 in Yu and Meng. 
+
