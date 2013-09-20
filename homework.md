@@ -34,4 +34,5 @@ This homework covers data augmentation approaches for probit and logistic regres
     a. What is the stationary distribution for this Gibbs sampler?
     a. Describe the transition kernel for moving from X to X', similar to equation 2.17 in Yu and Meng. 
     a. Verify that this transition kernel preserves the stationary distribution for X using the technique below equation 2.17 in Yu and Meng. 
+1. Recreate the comparison between Hamiltonian Monte Carlo and Metropolis (or even Gibbs sampling) in the bivariate normal example used in [MCMC using Hamiltonian Dynamics](http://www.cs.utoronto.ca/~radford/ham-mcmc.abstract.html). Feel free to use [this HMC function](http://www.cs.utoronto.ca/~radford/ham-mcmc-simple), but otherwise you should write your own code.
 
