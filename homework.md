@@ -9,7 +9,7 @@ description: ""
 ### Homework 3 (due 24 Sep in class)
 
 1. Verify equation 2.10 in [Yu and Meng]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf).
-1. Consider the following Gibbs sampler: 'X|Y~ N(pY,1-p^2)' and 'Y|X~N(pX,1-p^2)' for a known 0<p<1. 
+1. Consider the following Gibbs sampler: X|Y~ N(pY,1-p^2 ) and Y|X~N(pX,1-p^2 ) for a known 0<p<1. 
     - What is the stationary distribution for this Gibbs sampler?
     - Describe the transition kernel for moving from X to X', similar to equation 2.17 in Yu and Meng. 
     - Verify that this transition kernel preserves the stationary distribution for X using the technique below equation 2.17 in Yu and Meng. 
