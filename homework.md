@@ -5,6 +5,10 @@ description: ""
 ---
 {% include JB/setup %}
 
+### Homework 4 (due 8 Oct in class)
+
+1. Find the stationary distribution for an autoregressive process of order 1.
+
 
 ### Homework 3 (due 24 Sep in class)
 
