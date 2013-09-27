@@ -18,7 +18,9 @@ description: ""
   - Day 1: Interweaving ([reading (through sec 2)]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf))
   - Day 2: Hamiltonian Monte Carlo ([reading (sec 3-4)](http://www.cs.utoronto.ca/~radford/ftp/ham-mcmc.pdf))
 - Week 5 - [Dynamic linear models in R](http://www.amazon.com/gp/product/0387772375/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0387772375&linkCode=as2&tag=jarnieassprod-20) ([book webpage](http://definetti.uark.edu/~gpetris/dlm/))
-  - Day 1: DLMs 1 ([reading (through sec 2.8)]({{BASE_PATH}}/papers/DLMs_ch2.pdf), [code]({{BASE_PATH}}/papers/DLMs_ch2.R)) 
-  - Day 2: DLMs 2 ([reading (through sec 3.2 but not 3.1.2 or 3.2.5)]({{BASE_PATH}}/papers/DLMs_ch3.pdf), [code]({{BASE_PATH}}/papers/DLMs_ch3.R)) 
-
+  - Day 1: DLMs 1 ([reading (through 2.8)]({{BASE_PATH}}/papers/DLMs_ch2.pdf), [code]({{BASE_PATH}}/papers/DLMs_ch2.R)) 
+  - Day 2: DLMs 2 ([reading (through 3.2 but not 3.1.2 or 3.2.5)]({{BASE_PATH}}/papers/DLMs_ch3.pdf), [code]({{BASE_PATH}}/papers/DLMs_ch3.R)) 
+- Week 6 - 
+  - Day 1: DLMs 3 ([reading (through 4.5)]({{BASE_PATH}}/papers/DLMs_ch4.pdf))
+  - Day 2: DLMs 4 ([reading]({{BASE_PATH}}/papers/DLMs_ch5.pdf))
 
