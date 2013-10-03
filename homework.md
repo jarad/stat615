@@ -8,7 +8,7 @@ description: ""
 ### Homework 4 (due 8 Oct in class)
 
 1. Find the stationary distribution for an autoregressive process of order 1.
-1. Perform a Bayesian analysis of this data set, temperature measurements 25cm below the surface on an experimental plot in Wyoming. Here is some code to get you started:
+1. Perform a Bayesian analysis of [this data set]({{BASE_PATH}}/data/dlm-data.csv), temperature measurements 25cm below the surface on an experimental plot in Wyoming. Here is some code to get you started:
    
 ```r 
 d = read.csv("dlm-data.csv")
