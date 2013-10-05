@@ -23,4 +23,8 @@ description: ""
 - Week 6 - 
   - Day 1: DLMs 3 ([reading (through 4.5)]({{BASE_PATH}}/papers/DLMs_ch4.pdf))
   - Day 2: DLMs 4 ([reading]({{BASE_PATH}}/papers/DLMs_ch5.pdf))
+- Week 7 -
+  - Day 1: Particle MCMC ([reading (through 3.1)](http://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf))
+  - Day 2: Particle learning ([reading (through 3)](http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?view=body&id=pdfview_1&handle=euclid.ss/1280841735)
+
 
