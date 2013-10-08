@@ -29,7 +29,7 @@ plot(de)
 1. Verify equation 2.10 in [Yu and Meng]({{BASE_PATH}}/papers/Yu_Meng_to_2011.pdf).
 1. Consider the following Gibbs sampler: X|Y~ N(pY,1-p^2 ) and Y|X~N(pX,1-p^2 ) for a known 0<p<1. 
     - What is the stationary distribution for this Gibbs sampler?
-    - Describe the transition kernel for moving from X to X', similar to equation 2.17 in Yu and Meng. 
+    - Derive the transition kernel for moving from X to X', similar to equation 2.17 in Yu and Meng. 
     - Verify that this transition kernel preserves the stationary distribution for X using the technique below equation 2.17 in Yu and Meng. 
 1. Recreate the comparison between Hamiltonian Monte Carlo and Metropolis (or even Gibbs sampling) in the bivariate normal example used in [MCMC using Hamiltonian Dynamics](http://www.cs.utoronto.ca/~radford/ham-mcmc.abstract.html). Feel free to use [this HMC function](http://www.cs.utoronto.ca/~radford/ham-mcmc-simple), but otherwise you should write your own code.
 
