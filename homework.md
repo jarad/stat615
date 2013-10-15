@@ -5,7 +5,13 @@ description: ""
 ---
 {% include JB/setup %}
 
-### Homework 4 (due 8 Oct in class)
+### Homework 5 (due 22 Oct in class)
+
+1. Find the nugget, sill, and range (or effective range) for the linear, spherical, exponential, and Gaussian covariance function.
+1. Plot the variograms for the linear, spherical, exponential, and Gaussian s using the same value for the nugget, sill, and range (or effective range).
+1. Use Brook's Lemma to find the joint distribution for the conditional distributions  X|Y~ N(pY,1-p^2 ) and Y|X~N(pX,1-p^2 ).
+
+### Homework 4 (due 15 Oct in class)
 
 1. Find the stationary distribution for an autoregressive process of order 1.
 1. Perform a Bayesian analysis of [this data set]({{BASE_PATH}}/data/dlm-data.csv), temperature measurements 25cm below the surface on an experimental plot in Wyoming. Here is some code to get you started:
