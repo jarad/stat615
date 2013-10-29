@@ -5,6 +5,18 @@ description: ""
 ---
 {% include JB/setup %}
 
+### Homework 6 (due 5 Nov in class)
+
+(modified from exercise 5.7 of Hierarchical Modeling and Analysis for Spatial Data)
+
+The [real estate data set](http://www.biostat.umn.edu/~brad/data/BatonRouge.dat) consists of information regarding 70 sales of single-family homes in Baton Rouge, LA, during the month of June 1989. 
+
+1. Obtain the empirical variogram of the logarithm of selling prices.
+1. Fit a standard regression model to the logarithm of selling price using all explanatory variables other than location.
+1. Obtain the empirical variogram of the residuals to the fit above.
+1. Perform a fully Bayesian analysis using an exponential spatial correlation function. Use a flat prior for the regression coefficients, inverse gamma priors for the variance components, and a Unif(0,10) prior on the range parameter. 
+1. Provide a predictive distribution for the actual selling price for a home at location (long=-91.1174, lat=30.506) that has 938 sqft of living area, 332 sqft of other area, 25 years old with 3 bedrooms and 1 bathroom (no half baths). 
+
 ### Homework 5 (due 22 Oct in class)
 
 1. Find the nugget, sill, and range (or effective range) for the linear, spherical, exponential, and Gaussian covariance function.
