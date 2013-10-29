@@ -29,5 +29,7 @@ description: ""
 - Week 8 - [Hierarchical Modeling and Analysis for Spatial Data](http://www.amazon.com/gp/product/158488410X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=158488410X&linkCode=as2&tag=jarnieassprod-20)
   - Day 1: [Gaussian Processes]({{BASE_PATH}}/papers/Spatial_ch2.pdf)
   - Day 2: [Conditionally Autoregressive Models]({{BASE_PATH}}/papers/Spatial_ch3.pdf)
+- Week 9
+  - Day 1: [Slice sampling](http://www.jstor.org/stable/3448413)
 
 
