@@ -31,5 +31,9 @@ description: ""
   - Day 2: [Conditionally Autoregressive Models]({{BASE_PATH}}/papers/Spatial_ch3.pdf)
 - Week 9
   - Day 1: [Slice sampling](http://www.jstor.org/stable/3448413)
+- Week 10
+- Week 11
+  - Day 1: [Bayesian nonparametrics](http://ba.stat.cmu.edu/journal/2013/vol08/issue02/mueller.pdf), you may want to read the [discussions](http://ba.stat.cmu.edu/vol08is02.php)
+
 
 
