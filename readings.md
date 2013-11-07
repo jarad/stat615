@@ -34,6 +34,7 @@ description: ""
 - Week 10
 - Week 11
   - Day 1: [Bayesian nonparametrics](http://ba.stat.cmu.edu/journal/2013/vol08/issue02/mueller.pdf), you may want to read the [discussions](http://ba.stat.cmu.edu/vol08is02.php)
+  - Day 2: Finite mixtures - Ch. 18 of Bayesian Data Analysis (2nd ed) (Ch 22 of 3rd ed)
 
 
 
