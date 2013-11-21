@@ -27,7 +27,7 @@ description: ""
   - Day 1: Particle MCMC ([reading (through 3.1)](http://www.stats.ox.ac.uk/~doucet/andrieu_doucet_holenstein_PMCMC.pdf))
   - Day 2: Particle learning ([reading (through 3)](http://projecteuclid.org/DPubS/Repository/1.0/Disseminate?view=body&id=pdfview_1&handle=euclid.ss/1280841735)
 - Week 8 - [Hierarchical Modeling and Analysis for Spatial Data](http://www.amazon.com/gp/product/158488410X/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=158488410X&linkCode=as2&tag=jarnieassprod-20)
-  - Day 1: [Gaussian Processes]({{BASE_PATH}}/papers/Spatial_ch2.pdf)
+  - Day 1: [Gaussian Processes]({{BASE_PATH}}/papers/Spatial_ch2.pdf) (Ch. 21 of BDA)
   - Day 2: [Conditionally Autoregressive Models]({{BASE_PATH}}/papers/Spatial_ch3.pdf)
 - Week 9
   - Day 1: [Slice sampling](http://www.jstor.org/stable/3448413)
@@ -37,6 +37,9 @@ description: ""
   - Day 2: Finite mixtures - Ch 22 of Bayesian Data Analysis (2rd ed) (Ch 18 of 2nd ed)
 - Week 12
   - Day 1: Dirichlet process - Ch. 23 of BDA
+- Week 13
+  - Day 1
+  - Day 2: Ch. 20 of BDA
 
 
 
